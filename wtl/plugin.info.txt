@@ -1,0 +1,7 @@
+base   wtl
+author H3
+email  29732082+H3wastooshort@users.noreply.github.com
+date   2025-03-10
+name   wtl plugin
+desc   Prints QR-code labels to wiki-articles on command.
+url    https://wiki.vspace.one/doku.php?id=projekte:2025:wiki_to-label

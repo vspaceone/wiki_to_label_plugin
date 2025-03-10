@@ -1,0 +1,13 @@
+wtl plugin for DokuWiki
+
+Prints QR-code labels to wiki-articles on command.
+
+All documentation for this plugin can be found at
+https://wiki.vspace.one/doku.php?id=projekte:2025:wiki_to-label
+
+If you install this plugin manually, make sure it is installed in
+lib/plugins/wtl/ - if the folder is called different it
+will not work!
+
+Please refer to http://www.dokuwiki.org/extensions for additional info
+on how to install extensions in DokuWiki.
